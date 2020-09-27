@@ -2,8 +2,8 @@
 Shopee wants to make sure their orders get to buyers on time in order to build their reputation.
 
 ### Task
--Identify orders that are considered late.
--Assume all deliveries are considered successful by second attempt.
+* Identify orders that are considered late.
+* Assume all deliveries are considered successful by second attempt.
 
 ### Delivery Time
 |                |  Metro Manila  |      Luzon     |     Visayas    |    Mindanao    |
