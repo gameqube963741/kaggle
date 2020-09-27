@@ -1,2 +1,2 @@
 ## Kaggle Competitions
--includes different kaggle competitions that I did
+-includes different kaggle competitions that I participated in
