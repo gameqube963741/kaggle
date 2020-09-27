@@ -14,8 +14,8 @@ Shopee wants to make sure their orders get to buyers on time in order to build t
 |    Mindanao    | 7 working days | 7 working days | 7 working days | 7 working days |
 
 ### Public Holidays: 
-2020-03-08 (Sunday)
-2020-03-25 (Wednesday)
-2020-03-30 (Monday)
-2020-03-31 (Tuesday)
+* 2020-03-08 (Sunday)
+* 2020-03-25 (Wednesday)
+* 2020-03-30 (Monday)
+* 2020-03-31 (Tuesday)
 
